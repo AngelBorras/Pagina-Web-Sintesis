@@ -1,0 +1,94 @@
+
+p {
+	
+	font-size: 0.80em;
+	
+	text-align: justify;
+	
+	
+	
+}
+
+.titulo1 {
+	
+	margin-top: 0%;
+	
+	font-weight: bold;
+	
+	font-size: 2em;
+	
+	vertical-align: middle;
+	
+	font-family: Baskerville;
+}
+
+.titulo2 {
+	
+  font-size: 2em; /* Tamaño de fuente */
+  
+  font-weight: bold; /* Grosor de fuente */
+  
+  color: black; /* Color de fuente */
+  
+  text-transform: uppercase; /* Transformación de texto a mayúsculas */
+  
+  font-family: Baskerville;
+  
+}
+
+.isologo {
+	
+	padding: 1%;
+	
+	width: 5%;
+	
+	height: 5%;
+}
+
+.petite {
+	
+	height: 40%;
+	
+	width: 40%;
+	
+}
+
+
+button {
+	
+	margin: 1%;
+	
+	border-top: 3%;
+	vertical-align: bottom ;
+	
+}
+
+header {
+	
+	position: fixed;
+	
+	top: 0%;
+	
+	width: 100%;
+	
+	
+}
+
+nav {
+	
+	position: fixed;
+	
+	top: 7.2% !important;
+	
+}
+
+footer {
+	
+position: fixed;
+
+bottom: -10%;
+
+width: 100%;
+	
+	
+}
